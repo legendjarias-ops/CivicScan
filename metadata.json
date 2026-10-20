@@ -1,0 +1,10 @@
+{
+  "name": "CivicScan",
+  "description": "Citywide infrastructure intelligence, civic issue detection, area scanning, repeat-issue clustering, and verified resolution tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
